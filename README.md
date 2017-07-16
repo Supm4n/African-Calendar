@@ -1,6 +1,6 @@
 # African Calendar
 
-African calendar containing international days and events mostly related to Africa.
+Calendar containing international days and events mostly related to Africa.
 Usefull for communications team.
 
 ## License
